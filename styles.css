@@ -5,15 +5,15 @@
 .wrapper{
     background:hsl(233, 47%, 7%);
     border: 3px solid green;
-    margin: 0 -10px;
+    margin: -8px -10px;
 }
 
 .container{
     background:hsl(244, 38%, 16%);
     text-align: center;
-    padding: 0px -10px;
-    margin: 500px 20px;
-    border: 3px solid red;
+    padding: 0px -10px 0px -10px;
+    margin: 0px 25px 0px 25px;
+    
     
 
 }
@@ -25,9 +25,19 @@
 }
 .detail-heading{
     color:hsla(0, 0%, 100%, 0.6);
+    margin: -8px 0px;
+   
+}
+.detail{
+margin:40px 0px;
 }
 .detail-stat{
+   
     color:hsl(0, 0%, 100%) ;
+    margin:2px 0px;
+}
+.detail-3b{
+    padding:0 0 80px 0;
 }
 .key-word{
     color:hsl(277, 64%, 61%);
