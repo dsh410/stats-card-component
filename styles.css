@@ -57,6 +57,7 @@ margin:40px 0px;
         display:flex;
         flex-flow: row-reverse nowrap;
         justify-content: flex-start;
+        padding:150px 0px;
     }  
     .detail-wrapper{
         display: flex;
