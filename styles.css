@@ -1,10 +1,10 @@
 .hero{
     width: 100%;
+    background:linear-gradient(hsl(277, 64%, 61%))
    
 }
 .wrapper{
     background:hsl(233, 47%, 7%);
-    border: 3px solid green;
     margin: -8px -10px;
 }
 
@@ -41,4 +41,22 @@ margin:40px 0px;
 }
 .key-word{
     color:hsl(277, 64%, 61%);
+}
+
+@media (min-width:960px) {
+    .container{
+        display:flex;
+        flex-flow: row-reverse nowrap;
+        justify-content: flex-start;
+    }  
+    .detail-wrapper{
+        display: flex;
+        justify-content: space-evenly;
+        }
+
+        .main-content{
+            padding:0 0 0 0;
+            margin:0 0 0 0;
+
+        }
 }
