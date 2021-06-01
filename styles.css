@@ -2,26 +2,30 @@
     box-sizing: border-box;
 }
 .hero{
-   width: 80%;
-   margin: 80px 80px -35px 35px ;
+   width: 81%;
+   margin: 80px 0px -35px 33px ;
+   padding: 0px 90px -35px 33px ;
  
 }
 .wrapper{
     background:hsl(233, 47%, 7%);
     margin: 0px 0px;
+    padding:20px 20px 40px 20px;
     border:3px solid red;
 }
 
 .container{
     background:hsl(244, 38%, 16%);
-    text-align: center;
-    padding: 0px 0px ;
-    margin: 0px 35px ;  
+    text-align:center;
+    padding: 0px 100px 0px 0px ;
+    margin: 0px 25px 0 32px;
 
 }
 .title{
     color:hsl(0, 0%, 100%);
-    font-size:38px;
+    font-size:28px;
+    padding:70px 10px 0 110px  ;
+    margin: 0px -100px ;
 }
     
 .par{
