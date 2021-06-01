@@ -10,7 +10,7 @@
 .wrapper{
     background:hsl(233, 47%, 7%);
     margin: 0px 0px;
-    padding:20px 20px 40px 20px;
+    padding:20px 0px 40px 0px;
     
 }
 
@@ -18,7 +18,7 @@
     background:hsl(244, 38%, 16%);
     text-align:center;
     padding: 0px 100px 0px 0px ;
-    margin: 0px 25px 0 32px;
+    margin: 0px 35px 0 32px;
 
 }
 .title{
@@ -39,7 +39,7 @@
 .detail-heading{
     color:hsla(0, 0%, 100%, 0.6);
     margin: -8px 0px;
-    font-size: 8px;
+    font-size: 12px;
     padding:10px 0px  ;
     text-transform: uppercase;
 }
