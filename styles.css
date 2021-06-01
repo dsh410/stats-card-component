@@ -11,7 +11,7 @@
     background:hsl(233, 47%, 7%);
     margin: 0px 0px;
     padding:20px 20px 40px 20px;
-    border:3px solid red;
+    
 }
 
 .container{
@@ -31,6 +31,9 @@
 .par{
     color:hsla(0, 0%, 100%, 0.75);
     font-size:15px;
+    line-height: 25px;
+    padding:20px 10px 25px 110px  ;
+    margin: 0px -100px ;
     
 }
 .detail-heading{
@@ -41,8 +44,8 @@
     text-transform: uppercase;
 }
 .detail{
-padding:10px 0px ;
-margin:0px 0px;
+    padding:20px 10px 25px 110px  ;
+    margin: 0px -100px ;
 font-size:15px;
 }
 .detail-stat{
