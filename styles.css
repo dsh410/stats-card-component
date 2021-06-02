@@ -22,6 +22,8 @@
 
 }
 .title{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
     color:hsl(0, 0%, 100%);
     font-size:28px;
     padding:70px 10px 0 110px  ;
@@ -30,10 +32,11 @@
     
 .par{
     color:hsla(0, 0%, 100%, 0.75);
-    font-size:15px;
-    line-height: 25px;
+    font-size:13px;
+    line-height: 23px;
     padding:20px 10px 25px 110px  ;
     margin: 0px -100px ;
+     font-family: 'Lexend Deca', sans-serif;
     
 }
 .detail-heading{
