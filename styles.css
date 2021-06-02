@@ -21,7 +21,7 @@
     text-align:center;
     
     margin: 0rem 1.5rem 10rem 1.5rem ;
-   padding: 0rem 0rem 0rem 0rem ;
+   padding: 0rem 0rem 4em 0rem ;
 
 }
 .title{
@@ -47,15 +47,20 @@
 .detail-heading{
     color:hsla(0, 0%, 100%, 0.6);
     font-size: 12px;
-    
+    margin: 0rem  ;
+    padding: 0rem ;
     text-transform: uppercase;
 }
-.detail{
-    /* padding:20px 10px 25px 110px  ;
-    margin: 0px -100px ; */
-    margin: 0rem 0rem 0rem 1.5rem ;
-    padding: 0rem 0rem 0rem 0rem ;
+  
+
+    .detail{
+         margin-top: 2rem;
+     
 font-size:15px;
+}
+.detail-wrapper{
+    margin: 60rem 0rem 0rem 0rem ;
+    padding: 0rem 0rem 0rem 0rem ;
 }
 .detail-stat{
     font-size: 20px;
