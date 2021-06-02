@@ -2,12 +2,14 @@
     box-sizing: border-box;
 }
 .hero{
-   width: 81%;
-   margin: 2.5rem 0px -0.4rem 1.4rem ;
-   padding: 0px 0rem -0.1rem 0rem ;
+   width: 80%;
+   margin: 0rem 0rem 0rem 1.5rem ;
+   padding: 0rem 0rem 0rem 0rem ;
  
 }
 .wrapper{
+    display:flex;
+    flex-flow:column nowrap;
     background:hsl(233, 47%, 7%);
     margin: 0px 0px;
     padding:20px 0px 40px 0px;
@@ -17,8 +19,10 @@
 .container{
     background:hsl(244, 38%, 16%);
     text-align:center;
-    padding: 0px 100px 0px 0px ;
-    margin: 0px 35px 0 32px;
+    /* padding: 0px 100px 0px 0px ;
+    margin: 0px 35px 0 32px; */
+    margin: 0rem 1.5rem 10rem 1.5rem ;
+   padding: 0rem 0rem 0rem 0rem ;
 
 }
 .title{
