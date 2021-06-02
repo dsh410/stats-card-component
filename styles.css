@@ -3,8 +3,8 @@
 }
 .hero{
    width: 80%;
-   margin: 0rem 0rem 0rem 1.5rem ;
-   padding: 0rem 0rem 0rem 0rem ;
+   margin-left:  1.5rem ;
+  
  
 }
 .wrapper{
@@ -46,14 +46,15 @@
 }
 .detail-heading{
     color:hsla(0, 0%, 100%, 0.6);
-    margin: -8px 0px;
     font-size: 12px;
-    padding:10px 0px  ;
+    
     text-transform: uppercase;
 }
 .detail{
-    padding:20px 10px 25px 110px  ;
-    margin: 0px -100px ;
+    /* padding:20px 10px 25px 110px  ;
+    margin: 0px -100px ; */
+    margin: 0rem 0rem 0rem 1.5rem ;
+    padding: 0rem 0rem 0rem 0rem ;
 font-size:15px;
 }
 .detail-stat{
