@@ -91,3 +91,9 @@ font-size:15px;
 }
 
 }
+
+@media(min-width:1200px) {
+    .detail-heading{
+        margin: 0 1.5rem;
+    } 
+}
