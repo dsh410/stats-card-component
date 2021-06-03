@@ -73,45 +73,21 @@ font-size:15px;
     color:hsl(277, 64%, 61%);
 }
 
-@media(min-width:960px) {
-    .wrapper{
-        display:flex;
-        flex-flow:row-reverse nowrap;
-        align-items: center;
-        padding: 4rem 3rem 8rem 3rem;
-        
-       
+@media(min-width:960px){
+   .wrapper{
+       display:flex;
+       flex-flow: row-reverse nowrap;
+       justify-content: center;
     }
     .hero{
-        margin: 5rem 0rem 0rem 0rem ; 
-        padding: 0rem 5rem 0em 0rem;
-      
+        flex-shrink: 1;
+        padding: 0rem 2rem;
+
     }
     .container{
-       
-       
-        margin: 5rem 0rem 0rem 8rem ; 
-        padding: 0rem 5rem 0em 1rem;
-       
-       
-        
+        flex-shrink: 1;
+        margin:0rem 2rem;
+        padding:0rem 0rem;   
     }
 
-    .detail-wrapper{
-        display:flex;
-        flex-flow:row nowrap;
-        justify-content: space-evenly;
-
-}
-
-.detail-heading{
-    margin: 0 1.5rem;
-}
-
-}
-
-@media(min-width:1200px) {
-    .detail-heading{
-        margin: 0 1.5rem;
-    } 
 }
