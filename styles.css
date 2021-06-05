@@ -2,16 +2,14 @@ body {
     background-color: hsl(233, 47%, 7%);
     color: white;
     display:flex;
-    justify-content:center;
+    justify-content: center 
+ 
+ }    
+    
+html,body{
+ overflow:hidden;
+}
    
-    
-   
-    
-    
-
-    
- }
 .wrapper{
-   border:2px solid red;
-   
+  margin: 13.5rem;
 }
