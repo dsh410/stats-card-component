@@ -1,6 +1,6 @@
 body {
     background-color: hsl(233, 47%, 7%);
-    color: red;
+    color: blue;
     display:flex;
     justify-content: center 
  
@@ -11,6 +11,6 @@ html,body{
 }
    
 .wrapper{
-  margin: 13rem;
+  margin: 10rem;
 
 }
