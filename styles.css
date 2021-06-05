@@ -1,6 +1,6 @@
 body {
     background-color: hsl(233, 47%, 7%);
-    color: blue;
+    color:white;
     display:flex;
     justify-content: center 
  
@@ -12,5 +12,5 @@ html,body{
    
 .wrapper{
   margin: 10rem;
-
+border:2px solid orangered;
 }
