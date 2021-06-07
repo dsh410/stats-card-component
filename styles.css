@@ -1,16 +1,16 @@
 body {
     background-color: hsl(233, 47%, 7%);
     color:white;
-    display:flex;
-    justify-content: center 
- 
+    display:inline;
+    margin:0px;
+  
  }    
     
 html,body{
- overflow:hidden;
+ height: 100vh;
 }
    
 .wrapper{
-  margin: 15rem;
-
+  margin:auto;
+ 
 }
