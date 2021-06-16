@@ -26,6 +26,7 @@ html,body{
 figure{
   grid-column:2;
   margin:0px; 
+  background:hsl(277, 64%, 61%);
 }
 
 img{
