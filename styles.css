@@ -25,15 +25,31 @@ html,body{
 
 figure{
   grid-column:2;
-  margin:0px; 
-  background:hsl(277, 64%, 61%);
+  margin:0; 
+  background-color:hsl(277, 64%, 61%);
 }
 
 img{
   width:100%;
 }
+
 section{
-   background:hsl(244, 38%, 16%);   
+  background:hsl(244, 38%, 16%);
+  
+}
+
+h1{
+  font-family: 'Inter', sans-serif;
+  font-weight:700;
+  
+}
+dt{
+  font-family: 'Lexend Deca', sans-serif;
+  font-weight:400;
+}
+p,dd{
+  font-family: 'Inter', sans-serif;
+  font-weight:400;
 }
 
 
