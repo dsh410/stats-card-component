@@ -45,7 +45,7 @@ dt{
   font-family: 'Lexend Deca', sans-serif;
   
 }
-span{
+h1 > span{
   color:  hsl(277, 64%, 61%);
 }
 
