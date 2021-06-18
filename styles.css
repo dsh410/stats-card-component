@@ -33,7 +33,7 @@ figure{
 
 img{
   width:100%;
-  
+  mix-blend-mode: multiply;
 }
 
 section{
