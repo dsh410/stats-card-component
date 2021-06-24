@@ -53,9 +53,18 @@ dl{
   grid-template-columns: repeat(3,1fr); 
 }
 
+dt{
+  font-size: large;
+}
+
 dd{
   margin:0;
+  text-transform: uppercase;
+  
 }
+
+
+
 
 
 
