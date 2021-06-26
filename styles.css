@@ -38,6 +38,7 @@ img{
 section{
   background:hsl(244, 38%, 16%);
   padding: 10%; 
+
 }
 
 p{
@@ -46,6 +47,9 @@ p{
 
 h1 > span{
   color:  hsl(277, 64%, 61%);
+}
+h1{
+  font-size:2em;
 }
 
 dl{
@@ -60,6 +64,10 @@ dt{
 dd{
   margin:0;
   text-transform: uppercase;
+  
+}
+div{
+  margin-top: 20%;
 }
 
 
